@@ -1,0 +1,16 @@
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (1, '中软', 'http://www.chinasofti.com', '123456@qq.com', 2);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (2, '百度', 'http://www.baidu.com', null, 1);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (3, 'CSDN', 'http://www.csdn.com', null, 3);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (6, '超链2', 'http://www.1234.com', '12345@qq.com', 6);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (7, '超链3', 'http://163.com', '123@qq.com', 7);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (10, '开源中国', 'http://www.oschina.net', '123@qq.com', 1);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (11, '超链7', '2', '3', 2);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (12, '豆瓣读书', 'https://book.douban.com', '123@qq.com', 1);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (13, '当当图书', 'http://www.dangdang.com', '1234@qq.com', 2);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (14, '京东图书', 'http://www.jd.com', '12345@qq.com', 3);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (15, '亚马逊购书网', 'http://www.amazon.cn', '123456@qq.com', 4);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (16, '购书网', 'http://www.51goushu.com', '1234567@qq.com', 5);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (17, '北京图书大厦网上书店', 'http://www.bjbb.com', '12345678@qq.com', 6);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (18, 'China-Pub网上书店', 'http://www.china-pub.com', '123456789@qq.com', 7);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (19, '卖吧', 'http://www.sale8.com', '234@qq.com', 8);
+INSERT INTO newsdb.link (link_id, link_name, link_url, email, link_order) VALUES (20, '读买书网', 'http://www.readbuy.cn', '2345@qq.com', 9);
